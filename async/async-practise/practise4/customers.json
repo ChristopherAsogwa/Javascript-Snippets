@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@gmail.com",
+    "address": "31 Paris Street"
+  },
+  {
+    "id": 2,
+    "name": "Brad Traversy",
+    "email": "bradtraversy@gmail.com",
+    "address": "65 Holland Street"
+  },
+  {
+    "id": 1,
+    "name": "Rick Toms",
+    "email": "ricktoms82@gmail.com",
+    "address": "Alabama Road"
+  } 
+]
